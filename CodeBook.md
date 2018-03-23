@@ -1,4 +1,4 @@
-##Codebook for the *Human Activity Recognition Using Smartphones* data set
+## Codebook for the *Human Activity Recognition Using Smartphones* data set
 
 There are two data files: `dataset.txt` contains individual observations, while `averages.txt` contains the averages per activity and per test subject. The columns are as follows:
 
